@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { ChevronLeft, ChevronRight, Globe, Users, Target, Share2, Star, Database } from 'lucide-react';
 
 const GlobantPresentation = () => {
