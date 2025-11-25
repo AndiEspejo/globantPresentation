@@ -42,6 +42,15 @@ const GlobantPresentation = () => {
             <p className='text-lg text-white/80 mt-2'>
               Universidad de Antioquia - 2025
             </p>
+            <div className='mt-12 pt-8 border-t border-white/30'>
+              <p className='text-lg text-white/70 mb-4'>Presentado por:</p>
+              <p className='text-xl text-white font-light mb-2'>
+                Carlos Andrés Palacios Mena
+              </p>
+              <p className='text-xl text-white font-light'>
+                Jefferson Andrés Espejo Goez
+              </p>
+            </div>
           </div>
         </div>
       ),
