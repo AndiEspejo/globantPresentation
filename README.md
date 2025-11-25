@@ -2,6 +2,8 @@
 
 Aplicación de React con Vite para presentar información sobre Globant - análisis de sistemas de información.
 
+🌐 **Demo en vivo:** [https://andiespejo.github.io/globantPresentation/](https://andiespejo.github.io/globantPresentation/)
+
 ## Características
 
 - 9 slides interactivos con información sobre Globant
