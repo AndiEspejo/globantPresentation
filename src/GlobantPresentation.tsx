@@ -20,7 +20,7 @@ const GlobantPresentation = () => {
             </div>
             <div className="mb-4">
               <img 
-                src="/icono.jpeg" 
+                src={`${import.meta.env.BASE_URL}icono.jpeg`}
                 alt="Globant" 
                 className="h-32 mx-auto object-contain"
               />
